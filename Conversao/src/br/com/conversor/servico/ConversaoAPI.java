@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 
 public class ConversaoAPI {
 
-    private static final String API_KEY = "9b254120051cf4f844816b11";
+    private static final String API_KEY = "INSIRA SUA APIKEY AQUI";
     private static final String BASE_URL = "https://v6.exchangerate-api.com/v6/";
 
     public RespostaConversao converter(String moedaBase, String moedaAlvo, double valor) {
@@ -41,4 +41,5 @@ public class ConversaoAPI {
             return null;
         }
     }
+
 }
