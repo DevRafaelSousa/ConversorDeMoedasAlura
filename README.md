@@ -42,3 +42,8 @@ Para que o projeto funcione após o download:
 
 1.  **Obter a API Key:** Obtenha sua chave de API gratuita no site da [ExchangeRate-API](https://www.exchangerate-api.com/).
 2.  **Inserir a Chave:** Abra o arquivo `ConversaoAPI.java` e substitua a *string* **`"SUA_CHAVE_AQUI"`** pela sua chave real.
+
+## Demonstração
+Resultado de uma conversão de 100 USD para BRL:
+
+![Resultado da Conversão de Moedas no Console] (https://raw.githubusercontent.com/DevRafaelSousa/ConversorDeMoedasAlura/main/assets/resultado.png.jpeg)
